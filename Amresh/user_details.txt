@@ -1,0 +1,134 @@
+User Type: Student
+User Name: a
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpgm
+Full Name: am
+Email: c
+Password: dddd
+Phone Number: ggg
+Date of Birth: 9008-03-17
+Address: g
+
+User Type: Student
+User Name: N
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: H
+Email: J
+Password: K
+Phone Number: K
+Date of Birth: 9007-06-09
+Address: K
+
+User Type: Student
+User Name: N
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: B
+Email: B
+Password: B
+Phone Number: B
+Date of Birth: 0999-09-09
+Address: A
+
+User Type: Student
+User Name: CC
+Full Name: CC
+Email: CC
+Password: CC
+Phone Number: 0900-09-09
+Date of Birth: 0998-02-28
+Address: j
+
+User Type: Student
+User Name: N
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: M
+Email: M
+Password: N
+Phone Number: NN
+Date of Birth: 0999-09-09
+Address: M
+
+User Type: Student
+User Name: a
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: a
+Email: a
+Password: a
+Phone Number: a
+Date of Birth: 0999-09-09
+Address: g
+
+User Type: Student
+User Name: V
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: V
+Email: V
+Password: V
+Phone Number: V
+Date of Birth: 0909-12-07
+Address: N
+
+User Type: Student
+User Name: f
+Full Name: f
+Email: f
+Password: f
+Phone Number: f
+Date of Birth: 9000-09-09
+Address: 7
+
+User Type: Student
+User Name: AMRESH
+Full Name: AMRESH
+Email: A
+Password: AAA
+Phone Number: CCV
+Date of Birth: 9008-02-09
+Address:  NN
+
+User Type: Student
+User Name: Amresh
+Full Name: Amresh Bhuyan
+Email: amresh@gmail.com
+Password: Amressh@123
+Phone Number: 7854998757
+Date of Birth: 2004-09-03
+Address: At-Baripada
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+
+User Type: Student
+User Name: A
+Full Name: w
+Email: dd
+Password: 24532144e5
+Phone Number: 77
+Date of Birth: 22004-09-08
+Address: 55
+
+User Type: Student
+User Name: Amresh
+Full Name: f
+Email: f
+Password: f
+Phone Number: fff
+Date of Birth: 2016-05-09
+Address: b
+
+User Type: Student
+User Name: a
+Full Name: s
+Email: s
+Password: s
+Phone Number: A
+Date of Birth: 9002-12-29
+Address: b
+
+User Type: Student
+User Name: Amresh
+Full Name: Amresh Bhuyan
+Email: amresh
+Password: Amresh
+Phone Number: 7854998757
+Date of Birth: 9000-09-09
+Address: A
+

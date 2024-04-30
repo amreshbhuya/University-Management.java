@@ -1,0 +1,19 @@
+
+
+Candidate Name: AMRESH BHUYAN
+Gender: MALE
+Category: OBC
+RILIGION : HINDU
+Date of Birth: 9-March-2004
+JEE Rank: 889
+12th Marks: 91
+10th Marks: 93
+Father's Name: SANAT KUMAR BHUYAN
+College Name: SVRC
+School Name: RK NEW GOVT HIGH SCHOOL, SINGHATIA
+JEE Roll Number: 2287526EW90
+Country type: India
+Address: AT-BELPAL, KHUNATAPAL, BADASHAI, MAYURBHANJ, ODISHA, 757026
+Mobile Number: 7854998757
+Admission Type: BTech
+ Intrested Course: Computer Science & Engineering

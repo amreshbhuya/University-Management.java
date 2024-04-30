@@ -1,0 +1,10 @@
+
+
+ Hostel Name: BHR
+ Room Number: 107
+ Hostel Fee: 12,000
+ Gender: MALE
+ Payment Method: Account Transfer:35181881560(SBI)
+Account Number:828929285525
+Transition number8379464875326932
+ Hostel Accommodation Required: Yes

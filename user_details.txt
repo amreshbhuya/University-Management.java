@@ -1,0 +1,100 @@
+User Type: Student
+User Name: Amresh
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: Amresh
+Email: amresh@123
+Password: 123456
+Phone Number: 757089
+Date of Birth: 0999-09-09
+Address: a
+
+User Type: Student
+User Name: Akash
+Full Name: Akashkumar
+Email: kanarniranajn@gmail.com
+Password: akashkuamr
+Phone Number: 8917409497
+Date of Birth: 2005-05-15
+Address: Sambalpur
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic1.jpg
+
+User Type: Student
+User Name: Amresh
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: Amresh Bhuyan
+Email: amreshbhuyanone@gmail.com
+Password: Amresh@123
+Phone Number: 7854998757
+Date of Birth: 2004-03-09
+Address: AT - BARIPADA
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+
+User Type: Student
+User Name: Amresh
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: Amresh
+Email: a
+Password: a
+Phone Number: 55555
+Date of Birth: 0900-09-09
+Address: a
+
+User Type: Student
+User Name: Amresh
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: Amresh Bhuyan
+Email: amreshbhuyanone@gmail.com
+Password: Amresh@123
+Phone Number: 7854998757
+Date of Birth: 2004-03-09
+Address: At-Baripada
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+
+User Type: Faculty
+User Name: SantatkuBhyan
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: SANAT KUMAR BHYAN
+Email: sanatkumar@gmail.com
+Password: Amresh@123
+Phone Number: 8018674930
+Date of Birth: 1966-07-01
+Address: AT-BELPAL
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+
+User Type: Student
+User Name: Amresh
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+Full Name: Amresh Bhuyan
+Email: amreshbhuyanone@gmail.com
+Password: Amresh@123
+Phone Number: 7854998757
+Date of Birth: 2004-03-09
+Address: At-belpal
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic.jpg
+
+User Type: Student
+User Name: Amresh
+Full Name: Amresh Bhuyan
+Email: amresh@gmail.com
+Password: Amresh@123
+Phone Number: 7854998757
+Date of Birth: 2004-03-09
+Address: at-sambalpur
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic1.jpg
+
+User Type: Student
+User Name: Ammresh
+Profile Image: C:\Users\amres\OneDrive\Pictures\Amresh.pic1.jpg
+Full Name: A
+Email: a@gmail.com
+Password: a@1234
+Phone Number: 786544987
+Date of Birth: 9000-09-09
+Address: a
+
